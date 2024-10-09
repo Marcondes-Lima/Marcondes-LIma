@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Marcondes-LIma 😎
+## Bem-vindo(a) ao perfil do Marcondes-LIma 😎 <img height="120" src="./conde.webp">
+
+
 
 <div>
    
@@ -18,7 +20,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra os conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@marcondesaugustovianalima7417" target="_blank" > <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
